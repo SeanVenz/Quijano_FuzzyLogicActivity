@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItoFuzzyLogicInference", "ItoFuzzyLogicInference.csproj", "{594C3A68-738E-4114-B926-E2CCF435A769}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuzzyLogicWaterTemperature", "FuzzyLogicWaterTemperature.csproj", "{594C3A68-738E-4114-B926-E2CCF435A769}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferenceLibrary", "..\InferenceLibrary\InferenceLibrary.csproj", "{BE613BBD-4A72-434A-AB1E-07E1780F2973}"
 EndProject
