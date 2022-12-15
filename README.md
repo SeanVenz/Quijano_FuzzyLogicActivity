@@ -15,3 +15,8 @@ An example inference process can be found in the integration tests directory.
 * Allows setting membership functions ranges and draws their charts
 * Displays all defined rules in a human readable format
 * Shows all inference process - fuzzification, rules evaluation and aggregated membership chart together with a defuzzification result
+
+3. Fuzzy Logic Rules to be followed
+
+* If (Water is Cold) THEN Power IS Low
+* If (Water is Hot) THEN POWER IS High
